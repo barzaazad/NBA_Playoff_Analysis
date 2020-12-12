@@ -1,0 +1,2 @@
+# NBA Playoff Performance Analysis
+This analysis aims to identify which NBA stars performance improved or declined the most from the regular season to the playoffs. This project involves scraping regular season and playoff data from basketball reference using the BeautifulSoup library, creating critera for players/seasons to evaluate, developing custom made stats for evaluation, and using data visualization and statistical analysis to best tell the story of the biggest playoff improvers and decliners.
